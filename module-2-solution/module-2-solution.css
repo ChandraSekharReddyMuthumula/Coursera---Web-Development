@@ -1,0 +1,29 @@
+#searchbox {
+	background-color: gray;
+}
+h3 {
+	text-align: center;
+}
+
+.chicken {
+	border-style: solid;
+	float: left;
+	color: red;
+	height: 200px;
+	width: 300px;
+}
+
+#beef {
+	float: left;
+	border: 5px solid black;
+}
+
+#sushi {
+	border: 5px solid black;
+	float: left;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+}
